@@ -1,0 +1,2 @@
+# SesgosCog
+Sesgos cognitivos svg
